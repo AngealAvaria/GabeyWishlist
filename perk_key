@@ -1,7 +1,7 @@
 //Here in will be contained the the number hashes assoicated with the various perks in Destiny 2
 
 
-//Barrel Options
+//barrel perks
 1482024992 == Smallbore
 1392496348 == Polygonal Rifling
 3250034553 == Hammer-Forged Rifling
@@ -11,3 +11,21 @@
 4090651448 == Corkscrew Rifiling
 1916287826 == Chambered Compensator
 1916287826 == Arrowhead Brake
+
+
+//magazine perks
+2420895100 == Extended Mag
+1431678320 == Alloy Magazine
+1087426260 == Appended Mag
+1968497646 == Armor-Piercing Rounds
+1561002382 == High-Caliber Rounds
+1885400500 == Ricochet Rounds
+3230963543 == Flared Magwell
+679225683  == Light Mag
+
+
+//masterworks
+384158423 == Stability
+186337601 == Handling
+2697220197 = Range
+758092021 == Reload
