@@ -24,6 +24,13 @@
 679225683  == Light Mag
 
 
+//stock perk
+3465198467 == Composite Stock
+4259401308 == Fitted Stock
+990298390  == Hand-Laid Stock
+1067908860 == Short-Action Stock
+
+
 //masterworks
 384158423 == Stability
 186337601 == Handling
@@ -71,3 +78,10 @@
 1890422124= Tap the Trigger
 365154968 = Target Lock
 
+247725512 = Rapid Hit
+699525795 = Eye of the Storm
+1546637391= Vorpal Weapon
+1015611457= Kill Clip
+460017080 = Headseeker
+3993379141= Deconstruct
+2313726158= Zen Moment
