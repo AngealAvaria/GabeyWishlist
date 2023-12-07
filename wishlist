@@ -165,6 +165,7 @@ dimwishlist:item=1916287826&perks=3250034553,3230963543,588594999,2458213969,384
 dimwishlist:item=1916287826&perks=1840239774,3230963543,588594999,2458213969,384158423
 dimwishlist:item=1916287826&perks=4090651448,3230963543,588594999,2458213969,384158423
 
+
 // Glissando-47
 //notes: (PvE / ??? long range ??? / ??? scout ??? / ??? strand ??? / ??? threadlings ???): pve scout for long range and threadling builds. hopefully never have to reload with those column three perks.|tags:pve,long range,scout,strand,threadlings
 dimwishlist:item=222606050&perks=1916287826,1968497646,1523832109,831391274,2697220197
@@ -173,5 +174,30 @@ dimwishlist:item=222606050&perks=1916287826,1968497646,3643424744,831391274,2697
 dimwishlist:item=222606050&perks=3250034553,1968497646,3643424744,831391274,2697220197
 
 
+// Lethal Abundance
+//notes: (PvP / ??? auto rifle ??? / ??? target lock ??? / ??? stability ???): pvp auto rifle with target lock and dsr for lazering while increasing damage.|tags:pvp,auto rifle,target lock,stability
+dimwishlist:item=2189073092&perks=1916287826,1885400500,1359896290,365154968,2697220197
+dimwishlist:item=2189073092&perks=1916287826,1885400500,1359896290,365154968,384158423
+
+//notes: (PvP / ??? auto rifle ??? / ??? stability ??? / ??? laser ???): pvp auto rifle with dsr and ttt for lasering. hoping that it will be very very stable.|tags:pvp,auto rifle,stability,laser
+dimwishlist:item=2189073092&perks=1916287826,1885400500,1359896290,1890422124,2697220197
+dimwishlist:item=2189073092&perks=1916287826,1885400500,1359896290,1890422124,384158423
+
+//notes: (PvE / ??? auto rifle ??? / ??? orbs of power ??? / ??? hatchling ??? / ??? sever ??? / ??? strand ???): pve auto rifle with a focus on strand debuff. recommended MW Stability, Reload|tags:pve,auto rifle,orbs of power,hatchling,sever,strand
+dimwishlist:item=2189073092&perks=1916287826,1885400500,923806249,243981275
+dimwishlist:item=2189073092&perks=1916287826,1885400500,923806249,3324494224
+dimwishlist:item=2189073092&perks=1916287826,1885400500,923806249,831391274
+
+
+// Belisarius-D
+//notes: (PvP / ??? pulse rifle ??? / ??? dueling ??? / ??? range ???): pvp roll for dueling at range. recommended MW range, maybe stability.|tags:pvp,pulse rifle,dueling,range
+dimwishlist:item=2313726158&perks=1916287826,1916287826,699525795,460017080,990298390
+dimwishlist:item=2313726158&perks=1916287826,1916287826,699525795,460017080,990298390
+dimwishlist:item=2313726158&perks=1916287826,1916287826,699525795,588594999,990298390
+dimwishlist:item=2313726158&perks=1916287826,1916287826,699525795,588594999,990298390
+
+//notes: (PvP / ??? pulse rifle ??? / ??? kill clip ??? / ??? keep away ??? / ??? range ???): pvp roll for staying at long range. Kill clip for the lethality at range. recommended MW stability for hitting your shots at range|tags:pvp,pulse rifle,kill clip,keep away,range
+dimwishlist:item=2313726158&perks=1916287826,3230963543,3619207468,1015611457,990298390
+dimwishlist:item=2313726158&perks=1916287826,679225683,3619207468,1015611457,990298390
 
 
